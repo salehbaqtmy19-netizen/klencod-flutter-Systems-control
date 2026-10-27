@@ -6,7 +6,7 @@
 
     <application
         android:requestLegacyExternalStorage="true"
-        android:label="Systems control"
+        android:label="Systems Control"
         android:icon="@drawable/ic_launcher"
         android:theme="@style/NormalTheme">
         <activity
